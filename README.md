@@ -1,3 +1,3 @@
 # apnaCollege-Demo
-This is my first Gir Repo
+This is my first Git Repo
 Author- Ayush Ghodke
